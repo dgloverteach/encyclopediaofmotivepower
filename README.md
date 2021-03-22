@@ -21,7 +21,7 @@ If you have an article or material that you would like to contribute please get 
 
 Please submit any documents for review in .odt format. This allows contributions from all word processing software.
 
-Please submit any photographs in .jpeg format. Please ensure pictures are sharp, clear and well lit. Please feel free to use any pictures that have been submitted by others in your articles, but remember to credit the person that took the picture. 
+Please submit any photographs in .jpeg or .png format. Please ensure pictures are sharp, clear and well lit. Please feel free to use any pictures that have been submitted by others in your articles, but remember to credit the person that took the picture. 
 
 <b>Recommended </b><b>Software</b>
 
